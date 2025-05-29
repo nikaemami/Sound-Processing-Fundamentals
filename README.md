@@ -1,7 +1,6 @@
 # 🎧 Audio Signal Processing Fundamentals
 
-This project explores the foundations of audio signal processing by generating and analyzing simple waveforms both the time and frequency domains, and visualize their evolution over time using spectrograms.
-
+This project explores audio signal processing by generating and analyzing simple waveforms both in the time and frequency domains, and visualize their evolution over time using spectrograms.
 
 ## Waveform Synthesis
 
